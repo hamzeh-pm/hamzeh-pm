@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hamzeh-pm
-- 👀 I’m interested in ... python, django, fastapi, docker, microservices, cloud services
-- 🌱 I’m currently learning ... FastAPI
-- 💞️ I’m looking to collaborate on ... django and python based project
+- 👀 I’m interested in ... python, system architecture, DDD design concepts
+- 🌱 I’m currently learning ... No i am always learning Python
+- 💞️ I’m looking to collaborate on ... python backend projects
 - 📫 How to reach me ... [my linkdin](https://linkedin.com/in/hamzeh-pourmahdi-a11994216)
 
 <!---
